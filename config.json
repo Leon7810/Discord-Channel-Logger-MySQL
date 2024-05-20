@@ -1,0 +1,22 @@
+{
+    "bot": {
+      "token": "YOUR_DISCORD_TOKEN",
+      "server_id": 123456789012545678,
+      "channel_id": 987654321097765432
+    },
+    "database": {
+      "enabled": true,
+      "host": "your_db_host",
+      "user": "your_db_user",
+      "password": "your_db_password",
+      "name": "your_db_name"
+    },
+    "logging": {
+      "enabled": true,
+      "log_channel_id": 567890193456789012,
+      "log_bot_messages": true
+    },
+	"dashboard": {
+        "records_per_page": 10
+    }
+}
